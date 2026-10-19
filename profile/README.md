@@ -13,15 +13,9 @@ Ingénieur logiciel de formation, je crois que les décisions sur nos rues, notr
 
 ## 🗺️ Thèmes
 
-- **Mobilité durable et Vision Zéro** — sécurité routière, aménagements cyclables et piétons
-- **Voirie et travaux publics** — suivi et documentation des chantiers et réaménagements
-- **Données ouvertes** — analyse du réseau routier et réutilisation des jeux de données de la Ville de Montréal
-- **Urbanisme** — transformation des rues et des espaces publics du quartier
+Mobilité durable et Vision Zéro, voirie et travaux publics, urbanisme et données ouvertes — avec un focus sur la réutilisation des jeux de données de la Ville de Montréal.
 
-## 📊 Données
-
-Les projets s'appuient en priorité sur les jeux de données publiés sur le [portail de données ouvertes de la Ville de Montréal](https://donnees.montreal.ca). Les sources sont indiquées dans chaque dépôt. Si vous repérez une erreur, n'hésitez pas à ouvrir une *issue*.
-
+Les projets s'appuient en priorité sur le [portail de données ouvertes de la Ville de Montréal](https://donnees.montreal.ca); les sources sont indiquées dans chaque dépôt. Erreur repérée? Ouvrez une *issue*.
 
 ## 📫 Me joindre
 
