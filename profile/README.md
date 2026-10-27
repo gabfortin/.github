@@ -1,4 +1,4 @@
-# Gabriel Fortin — Outils citoyens pour le Plateau-Mont-Royal
+# Gabriel Fortin
 
 Bienvenue! Cette organisation regroupe les projets numériques que je publie dans le cadre de mon mandat de **conseiller d'arrondissement du district de Jeanne-Mance**, au Plateau-Mont-Royal (Montréal).
 
@@ -8,7 +8,7 @@ Ingénieur logiciel de formation, je crois que les décisions sur nos rues, notr
 
 | Projet | Description | Lien |
 |---|---|---|
-| **Compteurs vélo** | Visualisation des données des compteurs de vélos de Montréal, pour suivre l'évolution de l'achalandage cycliste. | [velo.gabfortin.com](https://velo.gabfortin.com) |
+| **Compteurs vélo** | Visualisation des données des compteurs de vélos de Montréal, pour suivre l'évolution de l'achalandage cycliste. | [compteurvelo.com](https://compteurvelo.com) |
 | **Avant / Après** | Comparaisons visuelles des réaménagements de rues et d'espaces publics au Plateau-Mont-Royal. Réalisé en collaboration avec Alex Norris. | [avant-apres.ca](https://avant-apres.ca) |
 
 ## 🗺️ Thèmes
